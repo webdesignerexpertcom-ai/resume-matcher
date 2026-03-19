@@ -1,5 +1,4 @@
 import streamlit as st
-from pypdf import PdfReader
 import base64
 
 # --- Page Configuration ---
